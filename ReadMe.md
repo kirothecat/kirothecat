@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/A0hhvH7.jpg" alt="Header Banner" width="100%" style="border-radius: 8px;" />
+  <img src="https://imgur.com/a/3hTy9Lu" alt="Header Banner" width="100%" style="border-radius: 8px;" />
   
   <br/>
   
