@@ -60,8 +60,8 @@ class Kiro : JuniorAndroidDeveloper {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirozxy&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=9ae0ff" alt="Kiro's GitHub Stats" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirozxy&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8&text_color=9ae0ff" alt="Top Languages" height="175"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kirozxy&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=9ae0ff" alt="Kiro's GitHub Stats" height="175"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kirozxy&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8&text_color=9ae0ff" alt="Top Languages" height="175"/>
 </div>
 
 <br/>
