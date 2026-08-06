@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.imgur.com/AiJx2xt.png" alt="Header Banner" width="100%" style="border-radius: 8px;" />
   
-  <br/>
+  <br/><br/>
   
   # Hi there, I'm Kiro! 👋
   
@@ -9,13 +9,26 @@
   
   *Building smooth, scalable, and premium mobile experiences on Android.*
   
-  ---
-  
+  <br/>
+
   <!-- Typing SVG text typing animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=EE0000&center=true&vCenter=true&width=450&lines=Writing+clean+and+modern+Kotlin;Architecting+with+Jetpack+Compose;Exploring+the+depths+of+Android" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Writing+clean+and+modern+Kotlin;Architecting+with+Jetpack+Compose;Exploring+the+depths+of+Android;Crafting+responsive+mobile+UI" alt="Typing SVG" />
   </a>
+
+  <br/><br/>
+
+  <p align="center">
+    <a href="https://github.com/kirozxy">
+      <img src="https://img.shields.io/github/followers/kirozxy?label=Followers&style=for-the-badge&color=00B4D8&logo=github" alt="GitHub Followers" />
+    </a>
+    <a href="mailto:hanhatminh366@gmail.com">
+      <img src="https://img.shields.io/badge/Location-Vietnam-00B4D8?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+    </a>
+  </p>
 </div>
+
+---
 
 ## 🐧 About Me
 
@@ -44,9 +57,24 @@ class Kiro : JuniorAndroidDeveloper {
 
 ---
 
-## 🛠️ Interactive Tech Stack (Click to Expand)
+## 📊 GitHub Stats
 
-<details>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kirozxy&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=9ae0ff" alt="Kiro's GitHub Stats" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirozxy&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8&text_color=9ae0ff" alt="Top Languages" height="175"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirozxy&theme=tokyonight&hide_border=true&background=00000000&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<details open>
   <summary><b>📱 Core Language & Frameworks</b></summary>
   <br/>
   <p>
@@ -69,8 +97,8 @@ class Kiro : JuniorAndroidDeveloper {
   </ul>
 </details>
 
-<details>
-  <summary><b>📚 Android Architecture & Libraries</b></summary>
+<details open>
+  <summary><b>📚 Architecture & Libraries</b></summary>
   <br/>
   <p>
     <a href="https://developer.android.com/topic/libraries/architecture" target="_blank">
@@ -90,13 +118,13 @@ class Kiro : JuniorAndroidDeveloper {
     </a>
   </p>
   <ul>
-    <li><b>Architecture</b>: MVVM and MVI design patterns to achieve clear separation of concerns.</li>
-    <li><b>Async Handling</b>: Coroutines & StateFlow/SharedFlow for asynchronous, reactive data streaming.</li>
-    <li><b>Storage & Network</b>: Room for local offline SQLite database management, and Retrofit for API networking.</li>
+    <li><b>Architecture</b>: MVVM and MVI design patterns for clear separation of concerns.</li>
+    <li><b>Async Handling</b>: Coroutines & StateFlow/SharedFlow for asynchronous data streaming.</li>
+    <li><b>Storage & Network</b>: Room for local offline caching, and Retrofit for REST API networking.</li>
   </ul>
 </details>
 
-<details>
+<details open>
   <summary><b>🔧 Databases, Tools & CI/CD</b></summary>
   <br/>
   <p>
@@ -120,21 +148,16 @@ class Kiro : JuniorAndroidDeveloper {
     </a>
   </p>
   <ul>
-    <li><b>Tools & CI/CD</b>: Automation pipelines via GitHub Actions, gradle build scripting, and UI prototyping with Figma.</li>
+    <li><b>Tools & CI/CD</b>: Automation pipelines via GitHub Actions, Gradle build scripting, and UI prototyping with Figma.</li>
     <li><b>Cloud Databases</b>: Firebase Authentication, Cloud Firestore, and Cloud Messaging integration.</li>
   </ul>
 </details>
 
+---
+
+## 🌐 Connect with Me
+
 <p align="center">
-  <a href="https://github.com/kirozxy">
-    <img src="https://i.pinimg.com/originals/99/cd/09/99cd0925c516b5d0a740dffd03c3e0df.gif" alt="Profile Views" />
-  </a>
-</p>
-
-
-## 🌐 Connect with Me:
-
-<p align="left">
   <a href="https://facebook.com/kirozxy/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
@@ -146,5 +169,13 @@ class Kiro : JuniorAndroidDeveloper {
   </a>
   <a href="mailto:hanhatminh366@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/kirozxy">
+    <img src="https://i.pinimg.com/originals/99/cd/09/99cd0925c516b5d0a740dffd03c3e0df.gif" alt="Profile Animation" width="400" />
   </a>
 </p>
