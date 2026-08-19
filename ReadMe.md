@@ -167,7 +167,7 @@ class Kiro : JuniorAndroidDeveloper {
   <a href="https://steamcommunity.com/id/kirozxy/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
   </a>
-  <a href="mailto:hanhatminh366@gmail.com" target="_blank">
+  <a href="mailto:contact@kirozxy.dev" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
